@@ -26,6 +26,10 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 
 * Open the terminal in android studio or vs code and change the directory to the root of project and click on the following command after connecting to emulator or your mobile.
 
+   * flutter pub get
+   
+   * flutter pub run flutter_launcher_icons:main
+
    * flutter run
    
 * Run the app it takes some time then you will get to see in your mobile or emulator.
