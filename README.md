@@ -37,3 +37,7 @@ Page containing 2 portals as metioned.
 Login Page
 
 <img src="https://user-images.githubusercontent.com/113230592/233437751-5c56a321-c57d-48b9-81ec-22d6b9153b7d.jpg" width="30%" height="30%">
+
+Student Main Page
+
+<img src="https://user-images.githubusercontent.com/113230592/233439454-5fb6faf1-cd33-4d20-a479-d0874a44e401.jpg" width="30%" height="30%">
