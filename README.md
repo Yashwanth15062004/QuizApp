@@ -32,4 +32,4 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 
 Page containing 2 portals as metioned.
 
-<img src="https://user-images.githubusercontent.com/113230592/233431474-1fbd2fe0-48fb-4d38-8595-da6e8807246e.jpg" width="10%" height="10%">
+<img src="https://user-images.githubusercontent.com/113230592/233431474-1fbd2fe0-48fb-4d38-8595-da6e8807246e.jpg" width="30%" height="30%">
