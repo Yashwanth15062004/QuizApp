@@ -31,4 +31,4 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 ## Screenshots of the project running
 
 * Page containing 2 portals as metioned.
-![Screenshot_2023-04-20-16-52-49-98_76e310f6e96b385463e802ef230b04c2](https://user-images.githubusercontent.com/113230592/233431474-1fbd2fe0-48fb-4d38-8595-da6e8807246e.jpg)
+<img src="https://user-images.githubusercontent.com/113230592/233431474-1fbd2fe0-48fb-4d38-8595-da6e8807246e.jpg" width="100" height="100">
