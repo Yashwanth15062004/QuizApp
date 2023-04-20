@@ -13,6 +13,7 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 ### Installation
 
 * Clones the folder to your computer and open it in vs code or android studio(Android Studio is best).
+
 * We have our database online in the firebase using the google account of our own so no need to download anything for that.
    
 * Install Java11,flutter and dart extensions if you are using the VS Code.
@@ -28,3 +29,6 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 * Run the app it takes some time then you will get to see in your mobile or emulator.
 
 ## Screenshots of the project running
+
+* Page containing 2 portals as metioned.
+![Screenshot_2023-04-20-16-52-49-98_76e310f6e96b385463e802ef230b04c2](https://user-images.githubusercontent.com/113230592/233431474-1fbd2fe0-48fb-4d38-8595-da6e8807246e.jpg)
