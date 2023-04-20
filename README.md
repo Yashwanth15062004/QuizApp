@@ -12,7 +12,9 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 
 ### Installation
 
-* Clones the folder to your computer and open it in vs code or android studio(Android Studio is best).
+* Create a flutter based folder in android studio or vs code by the given command in terminal called Quizziz import the folders and files to that folder.
+
+   * flutter create Quizziz
 
 * We have our database online in the firebase using the google account of our own so no need to download anything for that.
    
