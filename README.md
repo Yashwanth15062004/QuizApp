@@ -20,7 +20,7 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 
 * If you are using the android studio connect the emulator if you dont have the emulator or using the vs code connect your mobile to computer
 
-* Before connecting the moblile switch on the usb debugging options in mobile if it is not shown in the settings go to the mobile version and click 7 times on it then the developer options are visible to you in the settings and you will get a pop up message that you are a developer.
+* Before connecting to the moblile switch on the usb debugging options in mobile if it is not shown in the settings go to the mobile version and click 7 times on it then the developer options are visible to you in the settings and you will get a pop up message that you are a developer.
 
 * Open the terminal in androi studio or vs code and change the directory to the root of project and click on the following command after connecting to emulator or your mobile.
 
