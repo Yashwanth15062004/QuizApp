@@ -22,7 +22,7 @@ Make sure you have installed *visual studio*,*Android Studio*,*Java11*  before r
 
 * Before connecting to the moblile switch on the usb debugging options in mobile if it is not shown in the settings go to the mobile version and click 7 times on it then the developer options are visible to you in the settings and you will get a pop up message that you are a developer.
 
-* Open the terminal in androi studio or vs code and change the directory to the root of project and click on the following command after connecting to emulator or your mobile.
+* Open the terminal in android studio or vs code and change the directory to the root of project and click on the following command after connecting to emulator or your mobile.
 
    * flutter run
    
